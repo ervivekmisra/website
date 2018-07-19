@@ -1,0 +1,56 @@
+#pageGalleryBrowse.download-enabled .thumb .org-filename button[data-download],
+.download-enabled #gallery .controls .org-filename button[data-download]{
+    display:inline-block;
+    margin-left: 5px;
+    padding: 4px;
+    padding-top:2px;
+    border-width: 0;
+    line-height: 1;
+}
+
+.download-enabled #gallery .controls .org-filename button[data-download]:hover{
+    background-color: #a3a3a3;
+}
+
+
+#pageGalleryBrowse.download-enabled .thumb .org-filename > span{
+/*    to fit button*/
+    max-width: 90%; 
+}
+
+.download-enabled #gallery .controls .org-filename > span{
+/*    to fit button*/
+    max-width: 81%; 
+}
+
+
+#pageGalleryBrowse #downloadDropdown .dropdown-menu > li > a {
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+}
+
+
+
+#downloadModal p[data-empty] {
+    margin-bottom: 0;
+}
+
+
+#downloadModal a[data-start-download] {
+    width: 100%;
+/*    to not jump*/
+    vertical-align: top;
+}
+
+
+@media (min-width: 390px){
+    #downloadModal .modal-dialog {
+        max-width: 370px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+
+
+

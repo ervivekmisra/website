@@ -1,0 +1,127 @@
+
+
+<div class="container">
+<h1>User Albums </h1>
+<div class="container">
+<table class="table table-striped table-bordered">
+<thead>
+<tr><th>Album Id</th><th>Name</th><th>Description</th><th>images</th></tr>
+</thead>
+<tbody>
+<?php foreach($albums as $album): ?>
+<tr>
+<td><?php echo $album['ID']; ?></td>
+<td><?php echo $album['name']; ?></td>
+<td><?php echo $album['description']; ?></td>
+<td><?php echo $album['images']; ?></td>
+<td><?php echo "<a href=album/".$album['ID'].">View</a>"; ?></td>
+</tr>
+<?php endforeach; ?>
+</table>
+</div>
+
+</div>
+</div>
+
+
+ <!--footer-->
+    <footer class="footer">
+    <div class="container">
+        <div class="row">
+        <div class="col-sm-3">
+            <h4 class="title">Sumi</h4>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin suscipit, libero a molestie consectetur, sapien elit lacinia mi.</p>
+            <ul class="social-icon">
+            <a href="#" class="social"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+            <a href="#" class="social"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+            <a href="#" class="social"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+            <a href="#" class="social"><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
+            <a href="#" class="social"><i class="fa fa-google" aria-hidden="true"></i></a>
+            <a href="#" class="social"><i class="fa fa-dribbble" aria-hidden="true"></i></a>
+            </ul>
+            </div>
+        <div class="col-sm-3">
+            <h4 class="title">My Account</h4>
+            <span class="acount-icon">          
+            
+            <a href="#"><i class="fa fa-user" aria-hidden="true"></i> Profile</a>
+            <a href="#"><i class="fa fa-globe" aria-hidden="true"></i> Language</a>           
+          </span>
+            </div>
+        <div class="col-sm-3">
+            <h4 class="title">Category</h4>
+            <div class="category">
+            <a href="#">men</a>
+            <a href="#">women</a>
+            <a href="#">boy</a>
+            <a href="#">girl</a>
+            <a href="#">bag</a>
+            <a href="#">teshart</a>
+            <a href="#">top</a>
+            <a href="#">shos</a>
+            <a href="#">glass</a>
+            <a href="#">kit</a>
+            <a href="#">baby dress</a>
+            <a href="#">kurti</a>           
+            </div>
+            </div>
+        <div class="col-sm-3">
+            <h4 class="title">Lorem Ipsum</h4>
+            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+            <ul class="payment">
+            <li><a href="#"><i class="fa fa-cc-amex" aria-hidden="true"></i></a></li>
+            <li><a href="#"><i class="fa fa-credit-card" aria-hidden="true"></i></a></li>            
+            <li><a href="#"><i class="fa fa-paypal" aria-hidden="true"></i></a></li>
+            <li><a href="#"><i class="fa fa-cc-visa" aria-hidden="true"></i></a></li>
+            </ul>
+            </div>
+        </div>
+        <hr>
+        
+        <div class="row text-center"> © 2018. xxxx.</div>
+        </div>
+        
+        
+    </footer>
+    
+    
+    
+    
+
+
+<script>
+$(document).ready(function() {
+    var $lightbox = $('#lightbox');
+    
+    $('[data-target="#lightbox"]').on('click', function(event) {
+        var $img = $(this).find('img'), 
+            src = $img.attr('src'),
+            alt = $img.attr('alt'),
+            css = {
+                'maxWidth': $(window).width() - 100,
+                'maxHeight': $(window).height() - 200
+            };
+    
+        $lightbox.find('.close').addClass('hidden');
+        $lightbox.find('img').attr('src', src);
+        $lightbox.find('img').attr('alt', alt);
+        $lightbox.find('img').css(css);
+    });
+    
+    $lightbox.on('shown.bs.modal', function (e) {
+        var $img = $lightbox.find('img');
+            
+        $lightbox.find('.modal-dialog').css({'width': $img.width()});
+        $lightbox.find('.close').removeClass('hidden');
+    });
+});
+
+
+</script>
+  
+
+    <script  src="js/index.js"></script>
+<script  src="js/authentication.js"></script>
+</body>
+
+</html>

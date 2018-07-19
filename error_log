@@ -1,0 +1,13 @@
+[26-Jun-2018 10:02:39 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/surfcloudcom/public_html/setup.php on line 109
+[26-Jun-2018 10:02:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/surfcloudcom/public_html/setup.php:109) in /home/surfcloudcom/public_html/setup.php on line 177
+[26-Jun-2018 10:06:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/surfcloudcom/public_html/setup.php on line 109
+[26-Jun-2018 10:11:44 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/surfcloudcom/public_html/setup.php on line 109
+[30-Jun-2018 03:46:47 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/surfcloudcom/public_html/index.php on line 38
+[30-Jun-2018 03:46:51 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/surfcloudcom/public_html/index.php on line 38
+[30-Jun-2018 03:46:55 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/surfcloudcom/public_html/index.php on line 38
+[30-Jun-2018 03:46:57 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/surfcloudcom/public_html/index.php on line 38
+[30-Jun-2018 03:47:02 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/surfcloudcom/public_html/index.php on line 38
+[30-Jun-2018 03:47:07 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/surfcloudcom/public_html/index.php on line 38
+[30-Jun-2018 03:47:12 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/surfcloudcom/public_html/index.php on line 38
+[06-Jul-2018 19:06:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/surfcloudcom/public_html/application/views/profile/index.php on line 553
+[06-Jul-2018 19:06:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/surfcloudcom/public_html/application/views/profile/index.php on line 553

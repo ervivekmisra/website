@@ -1,0 +1,728 @@
+a:2:{s:6:"expire";i:1531465146;s:7:"headers";a:0:{}}ENDCI---><!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+                    <meta name="keywords" content=" " />
+            <meta name="description" content="" />
+         
+        <!-- facebook meta tag -->
+                <meta property="og:title" content="" />
+        <meta property="og:description" content='' />
+        <meta property="og:url" content="http://localhost/mainsurfcloud/c/world/page" />
+        <meta property="og:site_name" content="http://localhost/mainsurfcloud/" />
+        <meta property="og:image" content="http://localhost/mainsurfcloud/uploads/"/>
+        <meta property="og:image:width" content="760" />
+        <meta property="og:image:height" content="420" />
+        <!-- Favicon -->
+        <link rel="shortcut icon" href="http://localhost/mainsurfcloud/uploads/images/favicon.png"/>
+        <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+       
+        <title>
+            Demo Newspaper        </title>
+        <!-- analytics code -->
+                        
+        <!-- google fonts -->
+        <link href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i|Ubuntu:300,300i,400,400i,500,500i,700,700i" rel="stylesheet">
+        <!-- Bootstrap -->
+        <link rel="stylesheet" href="http://localhost/mainsurfcloud/application/views/themes/News365-Modern/web-assets/css/bootstrap.min.css">
+        <!-- Scrollbar css -->
+        <link rel="stylesheet" type="text/css" href="http://localhost/mainsurfcloud/application/views/themes/News365-Modern/web-assets/css/jquery.mCustomScrollbar.css"/>
+        <!-- Owl Carousel css -->
+        <link rel="stylesheet" type="text/css" href="http://localhost/mainsurfcloud/application/views/themes/News365-Modern/web-assets/owl-carousel/owl.carousel.css"/>
+        <link rel="stylesheet" type="text/css" href="http://localhost/mainsurfcloud/application/views/themes/News365-Modern/web-assets/owl-carousel/owl.theme.css"/>
+        <link rel="stylesheet" type="text/css" href="http://localhost/mainsurfcloud/application/views/themes/News365-Modern/web-assets/owl-carousel/owl.transitions.css"/>
+        <!-- youtube css -->
+        <link rel="stylesheet" type="text/css" href="http://localhost/mainsurfcloud/application/views/themes/News365-Modern/web-assets/css/RYPP.css"/>
+        <!-- jquery-ui css --> 
+        <link rel="stylesheet" href="http://localhost/mainsurfcloud/application/views/themes/News365-Modern/web-assets/css/jquery-ui.css">
+        <!-- animate -->
+        <!-- toster -->
+        <link rel="stylesheet" href="http://localhost/mainsurfcloud/application/views/themes/News365-Modern/web-assets/toster/toastr.css">
+        
+        <link rel="stylesheet" href="http://localhost/mainsurfcloud/application/views/themes/News365-Modern/web-assets/css/animate.min.css">
+        <link rel="stylesheet" href="http://localhost/mainsurfcloud/application/views/themes/News365-Modern/web-assets/css/comments.css">
+        <!-- fonts css -->
+        <link rel="stylesheet" href="http://localhost/mainsurfcloud/application/views/themes/News365-Modern/web-assets/font-awesome/css/font-awesome.min.css">
+        <link rel="stylesheet" type="text/css" href="http://localhost/mainsurfcloud/application/views/themes/News365-Modern/web-assets/css/Pe-icon-7-stroke.css"/>
+        <link rel="stylesheet" type="text/css" href="http://localhost/mainsurfcloud/application/views/themes/News365-Modern/web-assets/css/flaticon.css"/>
+        <!-- custom css -->
+        <link rel="stylesheet" href="http://localhost/mainsurfcloud/application/views/themes/News365-Modern/web-assets/css/comments.css">
+        <link rel="stylesheet" href="http://localhost/mainsurfcloud/application/views/themes/News365-Modern/web-assets/css/style.css">
+        <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+        <script type="text/javascript" src="http://localhost/mainsurfcloud/application/views/themes/News365-Modern/web-assets/js/jquery.min.js"></script>
+    
+    </head>
+
+
+    <body>
+    <div class="se-pre-con"></div>
+      <div id="fb-root"></div>
+        <script>(function (d, s, id) {
+                var js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id))
+                    return;
+                js = d.createElement(s);
+                js.id = id;
+                js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.8";
+                fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));</script>
+
+        <header>
+            <!-- Mobile Menu Start -->
+            <div class="mobile-menu-area navbar-fixed-top hidden-sm hidden-md hidden-lg">
+                <nav class="mobile-menu" id="mobile-menu">
+                    <div class="sidebar-nav">
+                        <ul class="nav side-menu">
+                            <li class="sidebar-search">
+                                <div class="input-group custom-search-form">
+                                    <input type="text" class="form-control" placeholder="Search...">
+                                    <span class="input-group-btn">
+                                        <button class="btn mobile-menu-btn" type="button">
+                                            <i class="fa fa-search"></i>
+                                        </button>
+                                    </span>
+                                </div>
+                            </li>
+                                         
+              <li class="active"><a href="http://localhost/mainsurfcloud/" class="active">HOME</a></li>
+                <li> <a  href="http://localhost/mainsurfcloud/International">INTERNATIONAL</a></li><li> <a  href="http://localhost/mainsurfcloud/Technology">TECHNOLOGY</a></li><li> <a  href="http://localhost/mainsurfcloud/Lifestyle">LIFESTYLE</a></li><li> <a  href="http://localhost/mainsurfcloud/Politics">POLITICS</a></li><li> <a  href="http://localhost/mainsurfcloud/weekly-news">WEEKLY NEWS</a></li><li> <a  href="http://localhost/mainsurfcloud/Business">BUSINESS</a></li><li> <a  href="http://localhost/mainsurfcloud/Sports">SPORTS</a></li><li> <a  href="http://localhost/mainsurfcloud/Health">HEALTH</a></li><li><a  href="http://localhost/mainsurfcloud/#">LINK<span class="fa arrow"></span></a><ul class="nav nav-third-level"> <li><a  href="https://plus.google.com/">GOOGLEPLUS.COM</a></li></ul></li><li> <a  href="https://plus.google.com/">GOOGLEPLUS.COM</a></li>
+                        </ul>
+                    </div>
+                </nav>
+
+                <div class="container">
+                    <div class="top_header_icon">
+                        <span class="top_header_icon_wrap">
+                            <a target="_blank" href="#" title="Twitter"><i class="fa fa-twitter"></i></a>
+                        </span>
+                        <span class="top_header_icon_wrap">
+                            <a target="_blank" href="#" title="Facebook"><i class="fa fa-facebook"></i></a>
+                        </span>
+                        <span class="top_header_icon_wrap">
+                            <a target="_blank" href="#" title="Google"><i class="fa fa-google-plus"></i></a>
+                        </span>
+                        <span class="top_header_icon_wrap">
+                            <a target="_blank" href="#" title="Vimeo"><i class="fa fa-vimeo"></i></a>
+                        </span>
+                        <span class="top_header_icon_wrap">
+                            <a target="_blank" href="#" title="Pintereset"><i class="fa fa-pinterest-p"></i></a>
+                        </span>
+                    </div>
+                    <div id="showLeft" class="nav-icon">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </div>
+                </div>
+            </div>
+            <!-- Mobile Menu End --><!-- top header -->
+<div class="top_header hidden-xs">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-4 col-md-3">
+                <div class="top_header_menu_wrap">
+                    <ul class="top-header-menu">
+                    <li><a href="http://localhost/mainsurfcloud/Registration/index" target="__blank"><span class="glyphicon glyphicon-log-in"></span> LOGIN </a></li>
+                        <li><a href="http://localhost/mainsurfcloud/Registration/index">REGISTRATION</a></li>
+
+                        <li><a href="http://localhost/mainsurfcloud/Contact/index">CONTACT</a></li>
+                    </ul>
+                </div>
+            </div>
+           
+            <script type="text/javascript">
+                $("#breaking").hide();
+            </script>
+            <!--breaking news-->
+            <div id="breaking" class="col-sm-8 col-md-7">
+                <div class="newsticker-inner">
+                    <ul class="newsticker">
+                        <li>Flood victims in north find it hard to save or sell their livestock</li><li><a href="http://tuhin.eyekoo.com/newspaper-vs15/Technology/details/102/blanditiis-praesentium-voluptatum-deleniti-atque-corrupti">blanditiis praesentium voluptatum deleniti atque corrupti </a></li><li><a href="http://tuhin.eyekoo.com/newspaper-vs15/International/details/99/printer-took-a-galley-of-type-and-scrambled-it">printer took a galley of type and scrambled it</a></li><li><a href="http://tuhin.eyekoo.com/newspaper-vs15/Business/details/97/blanditiis-praesentium-voluptatum-deleniti-atque-corrupti">blanditiis praesentium voluptatum deleniti atque corrupti </a></li><li><a href="http://tuhin.eyekoo.com/newspaper-vs15/Business/details/97/blanditiis-praesentium-voluptatum-deleniti-atque-corrupti">blanditiis praesentium voluptatum deleniti atque corrupti </a></li>                    </ul>
+                    <div class="next-prev-inner">
+                        <a href="#" id="prev-button"><i class='pe-7s-angle-left'></i></a>
+                        <a href="#" id="next-button"><i class='pe-7s-angle-right'></i></a>
+                    </div>
+                </div>
+            </div>
+
+            
+            <div class="col-sm-12 col-md-2">
+                <div class="top_header_icon">
+                    <span class="top_header_icon_wrap">
+                        <a target="_blank" href="https://twitter.com/" title="Twitter"><i class="fa fa-twitter"></i></a>
+                    </span>
+                    <span class="top_header_icon_wrap">
+                        <a target="_blank" href="https://www.facebook.com/" title="Facebook"><i class="fa fa-facebook"></i></a>
+                    </span>
+                    <span class="top_header_icon_wrap">
+                        <a target="_blank" href="https://plus.google.com/" title="Google"><i class="fa fa-google-plus"></i></a>
+                    </span>
+                    <span class="top_header_icon_wrap">
+                        <a target="_blank" href="https://vimeo.com/" title="Vimeo"><i class="fa fa-vimeo"></i></a>
+                    </span>
+                    <span class="top_header_icon_wrap">
+                        <a target="_blank" href="https://au.pinterest.com/" title="Pintereset"><i class="fa fa-pinterest-p"></i></a>
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="top_banner_wrap">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-md-4 col-sm-4">
+                <div class="header-logo">  <!-- logo -->
+                    <a href="http://localhost/mainsurfcloud/">
+                        <img class="td-retina-data img-responsive"  src="http://localhost/mainsurfcloud/uploads/images/logo.png" alt="">
+                    </a>
+                </div>
+            </div>
+            <div class="col-xs-8 col-md-8 col-sm-8  ">
+                <div class="header-banner">
+                    <a href="http://"><img width="100%" src="http://localhost/MainNewsPaper-v2.0/18-08-2017/uploads/Advertizement/2cae51675b59edb47ab93e0359c25425.png" alt=""></a>                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- navber -->
+<div class="container hidden-xs">
+    <nav class="navbar">
+        <div class="collapse navbar-collapse">
+            <ul class="nav navbar-nav">
+                <li class="active"><a href="http://localhost/mainsurfcloud/" class="category01 active">HOME</a></li>
+            <li> <a  href="http://localhost/mainsurfcloud/International" class="category02">INTERNATIONAL</a></li><li> <a  href="http://localhost/mainsurfcloud/Technology" class="category03">TECHNOLOGY</a></li><li> <a  href="http://localhost/mainsurfcloud/Lifestyle" class="category04">LIFESTYLE</a></li><li> <a  href="http://localhost/mainsurfcloud/Politics" class="category05">POLITICS</a></li><li> <a  href="http://localhost/mainsurfcloud/weekly-news" class="category06">WEEKLY NEWS</a></li><li> <a  href="http://localhost/mainsurfcloud/Business" class="category07">BUSINESS</a></li><li> <a  href="http://localhost/mainsurfcloud/Sports" class="category08">SPORTS</a></li><li> <a  href="http://localhost/mainsurfcloud/Health" class="category09">HEALTH</a></li><li class="dropdown"><a  href="http://localhost/mainsurfcloud/#" class="dropdown-toggle category010" data-toggle="dropdown">LINK<span class="pe-7s-angle-down"></span></a><ul class="dropdown-menu menu-slide"> <li><a  href="https://plus.google.com/">GOOGLEPLUS.COM</a></li></ul></li></li>            </ul>
+        </div> 
+    </nav>
+</div>
+
+
+</header>   
+<section class="block-inner" style="
+background-image: url('http://localhost/mainsurfcloud/');"
+>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <h1></h1>
+                <div class="breadcrumbs">
+
+                    <ul>
+                        <li><i class="pe-7s-home"></i> <a href="http://localhost/mainsurfcloud/" title="">HOME</a></li>
+                        <li>
+                        <a href="http://localhost/mainsurfcloud/c" title=""></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-8">
+            <div class="hidden-lg hidden-md hidden-xs hidden-sm">
+                        </div>
+            <!--Post list-->
+                            <div class="post-style2 wow fadeIn" data-wow-duration="1s">
+                    <img width="200" src="http://img.youtube.com/vi//0.jpg" alt="photography" />
+                    <div class="post-style2-detail">
+                        <h3><a href="http://localhost/mainsurfcloud/world/details/142/Lorem-Ipsum-is-simply-dummy-text-of-the-printing-and">Lorem Ipsum is simply dummy text of the printing and</a></h3>
+                        <div class="date">
+                            <ul>
+                                <li><img src="http://localhost/mainsurfcloud/./uploads/user/Man.png" class="img-responsive" alt=""></li>
+                                <li>By <a title="" href="#"><span>Md Tuhin</span></a> --</li>
+                                <li>Monday, 05 Mar, 2018</li>
+                            </ul>
+                        </div>
+                        <p>
+                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#39;s standard dummy</p>
+                        <a href="http://localhost/mainsurfcloud/world/details/142/Lorem-Ipsum-is-simply-dummy-text-of-the-printing-and"class="btn btn-style">Read More</a>                    </div>
+                </div>
+                            <div class="post-style2 wow fadeIn" data-wow-duration="1s">
+                    <img width="200" src="http://img.youtube.com/vi//0.jpg" alt="photography" />
+                    <div class="post-style2-detail">
+                        <h3><a href="http://localhost/mainsurfcloud/world/details/133/Lorem-Ipsum is-simply-dummy-text-">Lorem Ipsum is simply dummy text </a></h3>
+                        <div class="date">
+                            <ul>
+                                <li><img src="http://localhost/mainsurfcloud/./uploads/user/Man.png" class="img-responsive" alt=""></li>
+                                <li>By <a title="" href="#"><span>Md Tuhin</span></a> --</li>
+                                <li>Tuesday, 20 Feb, 2018</li>
+                            </ul>
+                        </div>
+                        <p>
+                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#39;s standard dummy text</p>
+                        <a href="http://localhost/mainsurfcloud/world/details/133/Lorem-Ipsum is-simply-dummy-text-"class="btn btn-style">Read More</a>                    </div>
+                </div>
+                            <div class="post-style2 wow fadeIn" data-wow-duration="1s">
+                    <a href="http://localhost/mainsurfcloud/world/details/132/Lorem-Ipsum-is-simply-dummy-text-of-the-printing"><img src="http://localhost/mainsurfcloud/uploads/thumb/1502887485.jpeg" alt=""></a>
+                    <div class="post-style2-detail">
+                        <h3><a href="http://localhost/mainsurfcloud/world/details/132/Lorem-Ipsum-is-simply-dummy-text-of-the-printing">Lorem Ipsum is simply dummy text of the printing</a></h3>
+                        <div class="date">
+                            <ul>
+                                <li><img src="http://localhost/mainsurfcloud/./uploads/user/Man.png" class="img-responsive" alt=""></li>
+                                <li>By <a title="" href="#"><span>Md Tuhin</span></a> --</li>
+                                <li>Thursday, 01 Feb, 2018</li>
+                            </ul>
+                        </div>
+                        <p>
+                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#39;s standard dummy</p>
+                        <a href="http://localhost/mainsurfcloud/world/details/132/Lorem-Ipsum-is-simply-dummy-text-of-the-printing"class="btn btn-style">Read More</a>                    </div>
+                </div>
+                            <div class="post-style2 wow fadeIn" data-wow-duration="1s">
+                    <a href="http://localhost/mainsurfcloud/world/details/131/But-I-must-explain-to-you-how-all-this-mistaken-idea"><img src="http://localhost/mainsurfcloud/uploads/thumb/1502887485.jpeg" alt=""></a>
+                    <div class="post-style2-detail">
+                        <h3><a href="http://localhost/mainsurfcloud/world/details/131/But-I-must-explain-to-you-how-all-this-mistaken-idea">But I must explain to you how all this mistaken idea</a></h3>
+                        <div class="date">
+                            <ul>
+                                <li><img src="http://localhost/mainsurfcloud/./uploads/user/Man.png" class="img-responsive" alt=""></li>
+                                <li>By <a title="" href="#"><span>Md Tuhin</span></a> --</li>
+                                <li>Thursday, 01 Feb, 2018</li>
+                            </ul>
+                        </div>
+                        <p>
+                        <p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and</p>
+                        <a href="http://localhost/mainsurfcloud/world/details/131/But-I-must-explain-to-you-how-all-this-mistaken-idea"class="btn btn-style">Read More</a>                    </div>
+                </div>
+                            <div class="post-style2 wow fadeIn" data-wow-duration="1s">
+                    <a href="http://localhost/mainsurfcloud/world/details/130/Contrary-to-popular-belief-Lorem-Ipsum-is-not-simply"><img src="http://localhost/mainsurfcloud/uploads/thumb/1502887485.jpeg" alt=""></a>
+                    <div class="post-style2-detail">
+                        <h3><a href="http://localhost/mainsurfcloud/world/details/130/Contrary-to-popular-belief-Lorem-Ipsum-is-not-simply">Contrary to popular belief, Lorem Ipsum is not simply</a></h3>
+                        <div class="date">
+                            <ul>
+                                <li><img src="http://localhost/mainsurfcloud/./uploads/user/Man.png" class="img-responsive" alt=""></li>
+                                <li>By <a title="" href="#"><span>Md Tuhin</span></a> --</li>
+                                <li>Thursday, 01 Feb, 2018</li>
+                            </ul>
+                        </div>
+                        <p>
+                        <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin</p>
+                        <a href="http://localhost/mainsurfcloud/world/details/130/Contrary-to-popular-belief-Lorem-Ipsum-is-not-simply"class="btn btn-style">Read More</a>                    </div>
+                </div>
+                            <div class="post-style2 wow fadeIn" data-wow-duration="1s">
+                    <a href="http://localhost/mainsurfcloud/world/details/129/There-are-many-variations-of-passages-"><img src="http://localhost/mainsurfcloud/uploads/thumb/1502887485.jpeg" alt=""></a>
+                    <div class="post-style2-detail">
+                        <h3><a href="http://localhost/mainsurfcloud/world/details/129/There-are-many-variations-of-passages-">There are many variations of passages </a></h3>
+                        <div class="date">
+                            <ul>
+                                <li><img src="http://localhost/mainsurfcloud/./uploads/user/Man.png" class="img-responsive" alt=""></li>
+                                <li>By <a title="" href="#"><span>Md Tuhin</span></a> --</li>
+                                <li>Thursday, 01 Feb, 2018</li>
+                            </ul>
+                        </div>
+                        <p>
+                        <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by</p>
+                        <a href="http://localhost/mainsurfcloud/world/details/129/There-are-many-variations-of-passages-"class="btn btn-style">Read More</a>                    </div>
+                </div>
+                            <div class="post-style2 wow fadeIn" data-wow-duration="1s">
+                    <a href="http://localhost/mainsurfcloud/world/details/124/There-are-many-variations-of-passages-of-Lorem-Ipsum-available"><img src="http://localhost/mainsurfcloud/uploads/thumb/1502887485.jpeg" alt=""></a>
+                    <div class="post-style2-detail">
+                        <h3><a href="http://localhost/mainsurfcloud/world/details/124/There-are-many-variations-of-passages-of-Lorem-Ipsum-available">There are many variations of passages of Lorem Ipsum available</a></h3>
+                        <div class="date">
+                            <ul>
+                                <li><img src="http://localhost/mainsurfcloud/./uploads/user/Man.png" class="img-responsive" alt=""></li>
+                                <li>By <a title="" href="#"><span>Md Tuhin</span></a> --</li>
+                                <li>Thursday, 01 Feb, 2018</li>
+                            </ul>
+                        </div>
+                        <p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed dictum, neque ac vestibulum tincidunt, purus libero tristique tortor, euismod fermentum</p>
+                        <a href="http://localhost/mainsurfcloud/world/details/124/There-are-many-variations-of-passages-of-Lorem-Ipsum-available"class="btn btn-style">Read More</a>                    </div>
+                </div>
+                            <div class="post-style2 wow fadeIn" data-wow-duration="1s">
+                    <a href="http://localhost/mainsurfcloud/world/details/123/There-are-many-variations-of-passages-of-Lorem-Ipsum-available"><img src="http://localhost/mainsurfcloud/uploads/thumb/1502887485.jpeg" alt=""></a>
+                    <div class="post-style2-detail">
+                        <h3><a href="http://localhost/mainsurfcloud/world/details/123/There-are-many-variations-of-passages-of-Lorem-Ipsum-available">There are many variations of passages of Lorem Ipsum available</a></h3>
+                        <div class="date">
+                            <ul>
+                                <li><img src="http://localhost/mainsurfcloud/./uploads/user/Man.png" class="img-responsive" alt=""></li>
+                                <li>By <a title="" href="#"><span>Md Tuhin</span></a> --</li>
+                                <li>Thursday, 01 Feb, 2018</li>
+                            </ul>
+                        </div>
+                        <p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed dictum, neque ac vestibulum tincidunt, purus libero tristique tortor, euismod fermentum</p>
+                        <a href="http://localhost/mainsurfcloud/world/details/123/There-are-many-variations-of-passages-of-Lorem-Ipsum-available"class="btn btn-style">Read More</a>                    </div>
+                </div>
+                    </div>
+
+
+        <aside class="col-sm-4 left-padding">
+
+            <form action="http://localhost/mainsurfcloud/search" method="GET" accept-charset="utf-8">
+                    <div class="input-group search-area"> <!-- search area -->
+                        <input type="text" class="form-control" placeholder="Search articles here ..." name="q">
+                        <div class="input-group-btn">
+                            <button class="btn btn-search" type="submit"><i class="fa fa-search" aria-hidden="true"></i></button>
+                        </div>
+                    </div> <!-- /.search area -->
+            </form>            <div class="banner-add hidden-lg hidden-md hidden-xs hidden-sm"> <!-- add -->
+                <span class="add-title"></span>
+                            </div>
+
+            <!-- social icon -->
+            <h3 class="category-headding ">SOCIAL PIXEL</h3>
+            <div class="headding-border"></div>
+            <div class="social">
+                <div class="ssm">
+                                </div>
+            </div> 
+
+            <div class="banner-add hidden-lg hidden-md hidden-xs hidden-sm"> <!-- add -->
+                <span class="add-title"></span>
+                            </div>
+
+                    <div class="tab-inner">
+                        <ul class="tabs">
+                            <li><a href="#">LATEST NEWS</a></li>
+                            <li><a href="#">MOST POPULAR</a></li>
+                        </ul><hr> <!-- tabs -->
+                        <div class="tab_content">
+                            <div class="tab-item-inner">
+                                                            <div class="box-item wow fadeIn" data-wow-duration="1s">
+                                    <div class="img-thumb">
+                                                                                     <a href="http://localhost/mainsurfcloud/Technology/details/144/demo" rel="bookmark"><img class="entry-thumb" src="http://localhost/mainsurfcloud/uploads/thumb/1531375950.jpg" alt="" height="80" width="90"></a>
+                                                                           </div>
+                                    <div class="item-details">
+                                        <h6 class="sub-category-title bg-color-1">
+                                            <a href="http://localhost/mainsurfcloud/c/Technology">Technology</a>
+                                        </h6>
+                                        <h3 class="td-module-title"><a href="http://localhost/mainsurfcloud/Technology/details/144/demo">demo</a></h3>
+                                        <div class="post-editor-date">
+                                            <!-- post date -->
+                                            <div class="post-date">
+                                                <i class="pe-7s-clock"></i>Wednesday, 11 Jul, 2018                                            </div>
+                                            <!-- post comment -->
+                                        </div>
+                                    </div>
+                                </div>
+                                                                <div class="box-item wow fadeIn" data-wow-duration="1s">
+                                    <div class="img-thumb">
+                                                                                     <a href="http://localhost/mainsurfcloud/Technology/details/143/Bdtask-Provides-the-Best-Software-Development-Service-at-reasonable-price-around-the-world" rel="bookmark"><img class="entry-thumb" src="http://localhost/mainsurfcloud/uploads/thumb/1520255008.jpg" alt="" height="80" width="90"></a>
+                                                                           </div>
+                                    <div class="item-details">
+                                        <h6 class="sub-category-title bg-color-1">
+                                            <a href="http://localhost/mainsurfcloud/c/Technology">Technology</a>
+                                        </h6>
+                                        <h3 class="td-module-title"><a href="http://localhost/mainsurfcloud/Technology/details/143/Bdtask-Provides-the-Best-Software-Development-Service-at-reasonable-price-around-the-world">Bdtask Provides the Best Software Development Service at reasonable price around the world</a></h3>
+                                        <div class="post-editor-date">
+                                            <!-- post date -->
+                                            <div class="post-date">
+                                                <i class="pe-7s-clock"></i>Monday, 05 Mar, 2018                                            </div>
+                                            <!-- post comment -->
+                                        </div>
+                                    </div>
+                                </div>
+                                                                <div class="box-item wow fadeIn" data-wow-duration="1s">
+                                    <div class="img-thumb">
+                                                                                <a href="http://localhost/mainsurfcloud/world/details/142/Lorem-Ipsum-is-simply-dummy-text-of-the-printing-and" rel="bookmark">
+                                        <img  src="http://img.youtube.com/vi//0.jpg" alt=""  height="80" width="90">
+                                       </a>
+                                                                            </div>
+                                    <div class="item-details">
+                                        <h6 class="sub-category-title bg-color-1">
+                                            <a href="http://localhost/mainsurfcloud/c/world">world</a>
+                                        </h6>
+                                        <h3 class="td-module-title"><a href="http://localhost/mainsurfcloud/world/details/142/Lorem-Ipsum-is-simply-dummy-text-of-the-printing-and">Lorem Ipsum is simply dummy text of the printing and</a></h3>
+                                        <div class="post-editor-date">
+                                            <!-- post date -->
+                                            <div class="post-date">
+                                                <i class="pe-7s-clock"></i>Sunday, 04 Mar, 2018                                            </div>
+                                            <!-- post comment -->
+                                        </div>
+                                    </div>
+                                </div>
+                                                                <div class="box-item wow fadeIn" data-wow-duration="1s">
+                                    <div class="img-thumb">
+                                                                                <a href="http://localhost/mainsurfcloud/world/details/133/Lorem-Ipsumis-simply-dummy-text" rel="bookmark">
+                                        <img  src="http://img.youtube.com/vi//0.jpg" alt=""  height="80" width="90">
+                                       </a>
+                                                                            </div>
+                                    <div class="item-details">
+                                        <h6 class="sub-category-title bg-color-1">
+                                            <a href="http://localhost/mainsurfcloud/c/world">world</a>
+                                        </h6>
+                                        <h3 class="td-module-title"><a href="http://localhost/mainsurfcloud/world/details/133/Lorem-Ipsumis-simply-dummy-text">Lorem Ipsum is simply dummy text </a></h3>
+                                        <div class="post-editor-date">
+                                            <!-- post date -->
+                                            <div class="post-date">
+                                                <i class="pe-7s-clock"></i>Tuesday, 20 Feb, 2018                                            </div>
+                                            <!-- post comment -->
+                                        </div>
+                                    </div>
+                                </div>
+                                                                <div class="box-item wow fadeIn" data-wow-duration="1s">
+                                    <div class="img-thumb">
+                                                                                     <a href="http://localhost/mainsurfcloud/world/details/132/Lorem-Ipsum-is-simply-dummy-text-of-the-printing" rel="bookmark"><img class="entry-thumb" src="http://localhost/mainsurfcloud/uploads/thumb/1502887485.jpeg" alt="" height="80" width="90"></a>
+                                                                           </div>
+                                    <div class="item-details">
+                                        <h6 class="sub-category-title bg-color-1">
+                                            <a href="http://localhost/mainsurfcloud/c/world">world</a>
+                                        </h6>
+                                        <h3 class="td-module-title"><a href="http://localhost/mainsurfcloud/world/details/132/Lorem-Ipsum-is-simply-dummy-text-of-the-printing">Lorem Ipsum is simply dummy text of the printing</a></h3>
+                                        <div class="post-editor-date">
+                                            <!-- post date -->
+                                            <div class="post-date">
+                                                <i class="pe-7s-clock"></i>Thursday, 01 Feb, 2018                                            </div>
+                                            <!-- post comment -->
+                                        </div>
+                                    </div>
+                                </div>
+                                                            </div> <!-- / tab item -->
+
+                            <div class="tab-item-inner">
+                                                             <div class="box-item">
+                                    <div class="img-thumb">
+                                                                                     <a href="http://localhost/mainsurfcloud/world/details/131/But-I-must-explain-to-you-how-all-this-mistaken-idea" rel="bookmark"><img class="entry-thumb" src="http://localhost/mainsurfcloud/uploads/thumb/1502887485.jpeg" alt="" height="80" width="90"></a>
+                                                                            </div>
+                                    
+                                    <div class="item-details">
+                                        <h6 class="sub-category-title bg-color-5">
+                                            <a href="http://localhost/mainsurfcloud/c/world">world</a>
+                                        </h6>
+                                        <h3 class="td-module-title">
+                                        <a href="http://localhost/mainsurfcloud/world/details/131/But-I-must-explain-to-you-how-all-this-mistaken-idea">But I must explain to you how all this mistaken idea</a>
+                                        </h3>
+                                        <div class="post-editor-date">
+                                            <!-- post date -->
+                                            <div class="post-date">
+                                                <i class="pe-7s-clock"></i> Thursday, 01 Feb, 2018                                            </div>
+                                         </div>
+                                    </div>
+                                </div>
+                                                                <div class="box-item">
+                                    <div class="img-thumb">
+                                                                                     <a href="http://localhost/mainsurfcloud/Politics/details/36/Contrary-to-popular-belief-Lorem-Ipsum-is-not-simply-random-text" rel="bookmark"><img class="entry-thumb" src="http://localhost/mainsurfcloud/uploads/thumb/1502887485.jpeg" alt="" height="80" width="90"></a>
+                                                                            </div>
+                                    
+                                    <div class="item-details">
+                                        <h6 class="sub-category-title bg-color-5">
+                                            <a href="http://localhost/mainsurfcloud/c/Politics">Politics</a>
+                                        </h6>
+                                        <h3 class="td-module-title">
+                                        <a href="http://localhost/mainsurfcloud/Politics/details/36/Contrary-to-popular-belief-Lorem-Ipsum-is-not-simply-random-text">Contrary to popular belief, Lorem Ipsum is not simply random text</a>
+                                        </h3>
+                                        <div class="post-editor-date">
+                                            <!-- post date -->
+                                            <div class="post-date">
+                                                <i class="pe-7s-clock"></i> Thursday, 01 Feb, 2018                                            </div>
+                                         </div>
+                                    </div>
+                                </div>
+                                                                <div class="box-item">
+                                    <div class="img-thumb">
+                                                                                     <a href="http://localhost/mainsurfcloud/International/details/99/UPdate-printer-took-a-galley-of-type-and-scrambled-it-tttt" rel="bookmark"><img class="entry-thumb" src="http://localhost/mainsurfcloud/uploads/thumb/1502887485.jpeg" alt="" height="80" width="90"></a>
+                                                                            </div>
+                                    
+                                    <div class="item-details">
+                                        <h6 class="sub-category-title bg-color-5">
+                                            <a href="http://localhost/mainsurfcloud/c/International">International</a>
+                                        </h6>
+                                        <h3 class="td-module-title">
+                                        <a href="http://localhost/mainsurfcloud/International/details/99/UPdate-printer-took-a-galley-of-type-and-scrambled-it-tttt">UPdate printer took a galley of type and scrambled it tttt</a>
+                                        </h3>
+                                        <div class="post-editor-date">
+                                            <!-- post date -->
+                                            <div class="post-date">
+                                                <i class="pe-7s-clock"></i> Thursday, 01 Feb, 2018                                            </div>
+                                         </div>
+                                    </div>
+                                </div>
+                                                                <div class="box-item">
+                                    <div class="img-thumb">
+                                                                                     <a href="http://localhost/mainsurfcloud/Technology/details/102/blanditiis-praesentium-voluptatum-deleniti-atque-corrupti" rel="bookmark"><img class="entry-thumb" src="http://localhost/mainsurfcloud/uploads/thumb/1502887485.jpeg" alt="" height="80" width="90"></a>
+                                                                            </div>
+                                    
+                                    <div class="item-details">
+                                        <h6 class="sub-category-title bg-color-5">
+                                            <a href="http://localhost/mainsurfcloud/c/Technology">Technology</a>
+                                        </h6>
+                                        <h3 class="td-module-title">
+                                        <a href="http://localhost/mainsurfcloud/Technology/details/102/blanditiis-praesentium-voluptatum-deleniti-atque-corrupti">blanditiis praesentium voluptatum deleniti atque corrupti </a>
+                                        </h3>
+                                        <div class="post-editor-date">
+                                            <!-- post date -->
+                                            <div class="post-date">
+                                                <i class="pe-7s-clock"></i> Thursday, 01 Feb, 2018                                            </div>
+                                         </div>
+                                    </div>
+                                </div>
+                                                                <div class="box-item">
+                                    <div class="img-thumb">
+                                                                                     <a href="http://localhost/mainsurfcloud/Technology/details/27/There-are-many-variations-of-passages-of-Lorem-Ipsum" rel="bookmark"><img class="entry-thumb" src="http://localhost/mainsurfcloud/uploads/thumb/1502887485.jpeg" alt="" height="80" width="90"></a>
+                                                                            </div>
+                                    
+                                    <div class="item-details">
+                                        <h6 class="sub-category-title bg-color-5">
+                                            <a href="http://localhost/mainsurfcloud/c/Technology">Technology</a>
+                                        </h6>
+                                        <h3 class="td-module-title">
+                                        <a href="http://localhost/mainsurfcloud/Technology/details/27/There-are-many-variations-of-passages-of-Lorem-Ipsum">There are many variations of passages of Lorem Ipsum</a>
+                                        </h3>
+                                        <div class="post-editor-date">
+                                            <!-- post date -->
+                                            <div class="post-date">
+                                                <i class="pe-7s-clock"></i> Thursday, 01 Feb, 2018                                            </div>
+                                         </div>
+                                    </div>
+                                </div>
+                                                            </div> <!-- / tab item -->
+                        </div> <!-- / tab_content -->
+                    </div> <!-- / tab -->
+          
+
+            <!-- archive calander -->
+            <div class="archive" >
+                <span class="archive-title ">Archive</span>
+                <form action="http://localhost/mainsurfcloud/archive/" method="GET" accept-charset="utf-8">
+                    <div class="form-group">
+                        <input  class="form-control col-md-3" onchange="submit()" placeholder="Archive" type="text" id="archive-date" name="date">
+                    </div> 
+                </form> 
+            </div>
+
+        </aside>
+    </div>
+
+
+    <!-- pagination -->
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="text-center">
+                    <ul class="pagination"><li><a class="active">1</a></li><li><a href="http://localhost/mainsurfcloud/c/world/page/8" data-ci-pagination-page="2">2</a></li><li><a href="http://localhost/mainsurfcloud/c/world/page/8" data-ci-pagination-page="2" rel="next">&gt;</a> </li></ul> 
+                </div>
+            </div>
+
+            <div class="col-sm-12">
+                <div class="banner hidden-lg hidden-md hidden-xs hidden-sm">
+                                    </div>
+            </div>
+        </div>
+    </div>
+
+
+</div>
+<!-- footer Area
+============================================ -->
+
+
+
+
+<footer>
+    <div class="container">
+        <div class="row">
+        
+            <div class="col-sm-6">
+                <div class="footer-box footer-logo-address"> <!-- address  -->
+                    <img src="http://localhost/mainsurfcloud/uploads/images/footer_logo.png" class="img-responsive" alt="">
+                    <address>
+                        14L.E Goulburn St, Sydney 2000NSW Tell: 01922296392 Email: bdtask@gmail.com | Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain  toil and pain                    </address>
+                </div> <!-- /.address  -->
+                
+            </div>
+
+            <div class="col-sm-6">
+                <div class="row">
+                    <div class="col-sm-6">
+                        <div class="footer-box">
+                                                    <h3 class="category-headding">Category</h3>
+                            <div class="headding-border bg-color-4"></div>
+                            <ul>
+                                <li>
+                                    <i class="fa fa-dot-circle-o"></i><a href="http://localhost/mainsurfcloud/International">INTERNATIONAL </a><i class="fa fa-dot-circle-o"></i><a href="http://localhost/mainsurfcloud/Travel">TRAVEL </a><i class="fa fa-dot-circle-o"></i><a href="http://localhost/mainsurfcloud/Food">FOOD </a><i class="fa fa-dot-circle-o"></i><a href="http://localhost/mainsurfcloud/Technology">TECHNOLOGY </a><i class="fa fa-dot-circle-o"></i><a href="http://localhost/mainsurfcloud/Lifestyle">LIFESTYLE </a><i class="fa fa-dot-circle-o"></i><a href="http://localhost/mainsurfcloud/Editor-Choice">EDITOR CHOICE </a><i class="fa fa-dot-circle-o"></i><a href="http://localhost/mainsurfcloud/Video">VIDEO </a><i class="fa fa-dot-circle-o"></i><a href="http://localhost/mainsurfcloud/Politics">POLITICS </a>                                </li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-6">
+                        <div class="footer-box">
+                                                    <h3 class="category-headding">Footer Menu</h3>
+                            <div class="headding-border bg-color-5"></div>
+                            <ul>
+                                <li><i class="fa fa-dot-circle-o"></i><a href="http://localhost/mainsurfcloud/About-us">ABOUT US</a></li><li><i class="fa fa-dot-circle-o"></i><a href="http://localhost/mainsurfcloud/PRIVACY-POLICY">PRIVACY POLICY</a></li><li><i class="fa fa-dot-circle-o"></i><a href="http://localhost/mainsurfcloud/TERMS-OF">TERMS OF USE</a></li><li><i class="fa fa-dot-circle-o"></i><a href="http://demonewspaper.bdtask.com/DemoNewsPaper-v1.5/sitemap.xml">SITEMAP</a></li><li><i class="fa fa-dot-circle-o"></i><a href="http://demonewspaper.bdtask.com/DemoNewsPaper-v1.5/rss.xml">RSS FEED</a></li>                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            
+        </div>
+    </div>
+</footer>
+
+<div class="sub-footer">  <!-- sub footer -->
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <p><p><a href='http://bdtask.com/' class='color-1'>bdtask</a> Theme | All right Reserved 2016</p></p>
+                <div class="social">
+                    <ul>
+                        <li><a href="https://www.facebook.com/" class="facebook"><i class="fa  fa-facebook"></i> </a></li>
+                        <li><a href="https://twitter.com/" class="twitter"><i class="fa  fa-twitter"></i></a></li>
+                        <li><a href="https://plus.google.com/" class="google"><i class="fa  fa-google-plus"></i></a></li>
+                        <li><a href="https://www.flickr.com/" class="flickr"><i class="fa fa-flickr"></i></a></li>
+                        <li><a href="https://www.youtube.com/?gl=CO&hl=es-419" class="youtube"><i class="fa fa-youtube"></i></a></li>
+                        <li><a href="https://vimeo.com/" class="vimeo"><i class="fa fa-vimeo"></i></a></li>
+                        <li><a href="https://vk.com/" class="vk"><i class="fa fa-vk"></i></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div> 
+
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script type="text/javascript" src="http://localhost/mainsurfcloud/application/views/themes/News365-Modern/web-assets/js/bootstrap.min.js"></script>
+<!-- Metis Menu Plugin JavaScript -->
+<script type="text/javascript" src="http://localhost/mainsurfcloud/application/views/themes/News365-Modern/web-assets/js/metisMenu.min.js"></script>
+<!-- toster -->
+<script type="text/javascript" src="http://localhost/mainsurfcloud/application/views/themes/News365-Modern/web-assets/toster/toastr.min.js"></script>
+<!-- Scrollbar js -->
+<script type="text/javascript" src="http://localhost/mainsurfcloud/application/views/themes/News365-Modern/web-assets/js/jquery.mCustomScrollbar.concat.min.js" ></script>
+<!-- animate js -->
+<script type="text/javascript" src="http://localhost/mainsurfcloud/application/views/themes/News365-Modern/web-assets/js/wow.min.js"></script>
+<!-- Newstricker js -->
+<script type="text/javascript" src="http://localhost/mainsurfcloud/application/views/themes/News365-Modern/web-assets/js/jquery.newsTicker.js"></script>
+<!--  classify JavaScript -->
+<script type="text/javascript" src="http://localhost/mainsurfcloud/application/views/themes/News365-Modern/web-assets/js/classie.js"></script>
+<!-- owl carousel js --> 
+<script type="text/javascript" src="http://localhost/mainsurfcloud/application/views/themes/News365-Modern/web-assets/owl-carousel/owl.carousel.js"></script>
+<!-- youtube js -->
+<script type="text/javascript" src="http://localhost/mainsurfcloud/application/views/themes/News365-Modern/web-assets/js/RYPP.js"></script>
+<!-- jquery ui js --> 
+<script type="text/javascript" src="http://localhost/mainsurfcloud/application/views/themes/News365-Modern/web-assets/js/jquery-ui.js"></script>
+<!-- form -->
+<script type="text/javascript" src="http://localhost/mainsurfcloud/application/views/themes/News365-Modern/web-assets/js/form-classie.js"></script>
+<!-- custom js --> 
+<script type="text/javascript" src="http://localhost/mainsurfcloud/application/views/themes/News365-Modern/web-assets/js/custom.js"></script>
+
+<script type="text/javascript">
+    $(function () {
+        $("#archive").datepicker({
+            autoOpen: true,
+            changeMonth: true,
+            changeYear: true,
+            dateFormat: "yy-mm-dd",
+            onSelect: function (dateText, inst) {
+                window.location = 'http://localhost/mainsurfcloud/' + 'archive/' + dateText, '_parent';
+            }
+        });
+    });
+    $(function () {
+        $("#archive-date").datepicker({
+            autoOpen: true,
+            changeMonth: true,
+            changeYear: true,
+            dateFormat: "yy-mm-dd",
+        });
+    });
+</script>
+
+</body>
+</html>
